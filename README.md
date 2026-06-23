@@ -1,210 +1,349 @@
-<h1 align="center">Hi 👋, I'm Dhashni S</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Engineering Student | Java Developer | Python Developer | Web Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A0DAD,50:4B0082,100:1E3A8A&text=Dhashni%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;Python+Developer;Web+Developer;Building+Projects+That+Solve+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Python+Developer;Java+Developer;Full+Stack+Web+Development+Learner;AI+%26+Software+Engineering+Enthusiast"/>
+
+<p>
+<img src="https://img.shields.io/badge/BE-CSE-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anna_University-9.3_CGPA-indigo?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Tamil_Nadu,_India-6A0DAD?style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhashni-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🌟 About Me
-
-🎓 BE Computer Science and Engineering Student
-
-💡 Passionate about Software Development, Artificial Intelligence, and Web Technologies
-
-🌱 Currently learning Full Stack Web Development and Data Structures & Algorithms
-
-🚀 Exploring AI Applications and Modern Development Technologies
-
-💻 Love building useful projects and improving problem-solving skills
-
-📍 Villupuram, Tamil Nadu, India
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/dhashni-santhamoorthi-87b59932b">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p>
+<a href="https://dhashni-dev.github.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/dhashni-dev">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="ADD_PORTFOLIO_LINK_HERE">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dhashnisanthamoorthi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
 
 <a href="https://github.com/dhashni-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=dhashni-dev&label=Profile%20Views&color=6A0DAD&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/dhashni-dev?style=for-the-badge&color=4B0082"/>
+<img src="https://img.shields.io/github/stars/dhashni-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=1E3A8A"/>
+</p>
+
+</div>
+
+---
+
+# About Me
+
+Computer Science Engineering student with a strong interest in Software Engineering, Artificial Intelligence, and Full Stack Development.
+
+I enjoy building practical applications that solve real-world problems while continuously improving my problem-solving and development skills. My current focus is on developing scalable software solutions, learning modern development practices, and strengthening my Data Structures & Algorithms foundation.
+
+### Open To
+
+- Software Development Internships
+- Web Development Internships
+- Python Development Roles
+- Open Source Contributions
+- AI & Machine Learning Projects
+- Collaborative Student Projects
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,mysql"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# AI / ML Expertise
 
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Backend Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Python Development | Intermediate | Building applications and automation solutions |
+| NLP Concepts | Intermediate | Chatbot logic and conversational systems |
+| AI Applications | Intermediate | Academic assistance and intelligent systems |
+| Machine Learning Concepts | Beginner | Model fundamentals and experimentation |
+| Computer Vision Concepts | Beginner | Gesture recognition and sign language research |
+| Prompt Engineering | Intermediate | Building effective AI workflows |
 
 ---
 
-## 🎯 Soft Skills
+# Featured Projects
 
-✔️ Problem Solving
+<details>
+<summary><b>🚧 Student AI Assistant (In Development)</b></summary>
 
-✔️ Analytical Thinking
+### Overview
 
-✔️ Communication
+AI-powered educational assistant designed to support students with academic questions and learning guidance.
 
-✔️ Team Collaboration
+| Metric | Details |
+|----------|----------|
+| Stack | Python, Streamlit, Gemini API |
+| Scale | Student-focused application |
+| Performance | Real-time AI responses |
+| Security | API-based architecture |
+| Impact | Educational assistance |
+| Repository | Add Repository Link |
 
-✔️ Adaptability
+### Highlights
 
-✔️ Continuous Learning
+- Academic question answering
+- Interactive chatbot interface
+- AI-powered responses
+- Simple and accessible UI
+- Continuous feature expansion
+
+</details>
+
+<details>
+<summary><b>🚧 Sign Language Translator (Research & Development)</b></summary>
+
+### Overview
+
+An intelligent system designed to translate sign language gestures into readable text and speech.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, Computer Vision Concepts |
+| Scale | Accessibility-focused application |
+| Performance | Real-time gesture processing |
+| Security | Local processing architecture |
+| Impact | Communication accessibility |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- Gesture recognition pipeline
+- Accessibility-focused solution
+- Text and speech conversion
+- Real-time interaction concepts
+- Ongoing development
+
+</details>
+
+<details>
+<summary><b>🚧 Personal Portfolio Platform</b></summary>
+
+### Overview
+
+Professional portfolio website showcasing projects, skills, certifications, and development journey.
+
+| Metric | Details |
+|----------|----------|
+| Stack | HTML, CSS, JavaScript, Flask |
+| Scale | Personal Branding Platform |
+| Performance | Responsive Design |
+| Security | Backend Contact Integration |
+| Impact | Professional Online Presence |
+| Repository | Add Repository Link |
+
+### Highlights
+
+- Responsive design
+- Mobile-friendly layout
+- Contact functionality
+- Project showcase section
+- Modern UI implementation
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+# Experience
 
-### 🌐 Portfolio Website
+## Web Development Intern
+### CodSoft
 
-* Responsive personal portfolio website
-* Built using HTML, CSS and JavaScript
-* Mobile-friendly design
-* Modern UI/UX implementation
+**June 2026 – July 2026**
 
-### 🤟 Sign Language Translator Application
+Virtual internship focused on practical web development concepts and project-based learning.
 
-* Converts sign language gestures into readable text
-* Bridges communication between hearing-impaired individuals and others
-* Supports real-time interaction
-* Gesture recognition implementation
+#### Scope of Work
 
-### 🤖 Student AI Assistant Chatbot
+- Frontend development fundamentals
+- Responsive website development
+- Project implementation
+- Version control practices
+- Professional development workflow
 
-* AI-powered student support chatbot
-* Academic query assistance
-* Built using Python
-* NLP-based conversational interaction
+**Skills**
+
+`HTML` `CSS` `JavaScript` `Git` `GitHub` `Web Development`
 
 ---
 
-## 🏆 Certifications
+# Achievements
 
-🎖 Financial Literacy Certification
+<div align="center">
 
-🎖 Problem Solving & Innovation Certification
+| Recognition | Details |
+|------------|----------|
+| Academic Excellence | Maintaining 9.3 CGPA in BE Computer Science Engineering |
+| Professional Certifications | Completed multiple career development certifications |
+| Project Development | Built AI, Web Development, and Accessibility-focused projects |
+| Continuous Learning | Actively pursuing Full Stack Web Development pathway |
 
-🎖 Self Presentation Certification
-
-🏢 Wadhwani Foundation
-
-📚 Currently pursuing Full Stack Web Development Certification from freeCodeCamp
-
----
-
-## 🎓 Education
-
-| Qualification                     | Institution                         | Score    |
-| --------------------------------- | ----------------------------------- | -------- |
-| BE Computer Science & Engineering | Anna University                     | 9.3 CGPA |
-| HSC                               | Bonne Nehru Higher Secondary School | 87.5%    |
-| SSLC                              | Bonne Nehru Higher Secondary School | 97%      |
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# Certifications
 
-<p align="center">
+### Wadhwani Foundation
+
+![Financial Literacy](https://img.shields.io/badge/Financial_Literacy-Completed-6A0DAD?style=for-the-badge)
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving_&_Innovation-Completed-4B0082?style=for-the-badge)
+
+![Self Presentation](https://img.shields.io/badge/Self_Presentation-Completed-1E3A8A?style=for-the-badge)
+
+### freeCodeCamp
+
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Web_Development-In_Progress-6A0DAD?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhashni-dev&show_icons=true&theme=tokyonight"/>
 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhashni-dev&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhashni-dev&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# GitHub Trophies
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhashni-dev&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=dhashni-dev&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhashni-dev&theme=tokyonight&row=1&column=6"/>
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# Contribution Activity
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhashni-dev&theme=tokyo-night"/>
-</p>
+
+</div>
 
 ---
 
-## 💡 Motto
+# Contribution Snake
 
-> Learn. Build. Improve. Repeat.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhashni-dev/dhashni-dev/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+# Current Focus
 
-<p align="center">
-Keep Learning • Keep Building • Keep Growing 🚀
-</p>
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Full Stack Web Development
+  - Java Programming
+  - System Design Fundamentals
+
+Building:
+  - Student AI Assistant
+  - Portfolio Platform
+  - Sign Language Translator
+
+Exploring:
+  - Artificial Intelligence
+  - Machine Learning
+  - Open Source Contributions
+
+Open_To:
+  - Internships
+  - Collaboration
+  - Hackathons
+  - Open Source Projects
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:dhashnisanthamoorthi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/dhashni-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://dhashni-dev.github.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building skills today that create opportunities tomorrow."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6A0DAD,50:4B0082,100:1E3A8A"/>

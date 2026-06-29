@@ -263,31 +263,11 @@ Virtual internship focused on practical web development concepts and project-bas
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhashni-dev&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhashni-dev&theme=tokyo-night"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dhashni-dev/dhashni-dev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 

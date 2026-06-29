@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/dhashni-s-87b59932b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -125,28 +125,33 @@ AI-powered educational assistant designed to support students with academic ques
 </details>
 
 <details>
-<summary><b>🚧 Sign Language Translator (Research & Development)</b></summary>
+<summary><b>💰 Finance Tracker (In Development)</b></summary>
 
 ### Overview
 
-An intelligent system designed to translate sign language gestures into readable text and speech.
+A personal finance management web application currently under development, designed to help users track income, expenses, budgets, and financial performance through an interactive dashboard.
 
-| Metric | Details |
-|----------|----------|
-| Stack | Python, Computer Vision Concepts |
-| Scale | Accessibility-focused application |
-| Performance | Real-time gesture processing |
-| Security | Local processing architecture |
-| Impact | Communication accessibility |
-| Repository | Add Repository Link |
+| Metric      | Details                                   |
+| ----------- | ----------------------------------------- |
+| Stack       | HTML, CSS, JavaScript                     |
+| Scale       | Multi-user finance management application |
+| Performance | Real-time financial calculations          |
+| Storage     | Browser Local Storage                     |
+| Security    | Client-side authentication system         |
+| Status      | In Active Development                     |
 
 ### Highlights
 
-- Gesture recognition pipeline
-- Accessibility-focused solution
-- Text and speech conversion
-- Real-time interaction concepts
-- Ongoing development
+* User authentication with signup and login
+* Personalized dashboard for each user
+* Income and expense tracking
+* Monthly budget management
+* Financial analytics and reports
+* CSV export functionality
+* Country-based currency support
+* Light and dark mode support
+* Responsive design
+* Additional features currently being developed
 
 </details>
 

@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<a href="https://dhashni-dev.github.io/portfolio">
+<a href="https://dhashni-dev.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -317,7 +317,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://dhashni-dev.github.io/portfolio">
+<a href="https://dhashni-dev.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge"/>
 </a>
 

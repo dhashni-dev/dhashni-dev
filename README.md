@@ -285,7 +285,7 @@ Learning:
 Building:
   - Student AI Assistant
   - Portfolio Platform
-  - Sign Language Translator
+  - Finance Tracker 
 
 Exploring:
   - Artificial Intelligence
